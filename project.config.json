@@ -7,10 +7,10 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"miniprogramRoot": "./dist/",
+	"miniprogramRoot": "dist/",
 	"compileType": "miniprogram",
 	"appid": "wxe9ee9fabd6143998",
-	"projectname": "test",
+	"projectname": "wx-novel",
 	"condition": {
 		"search": {
 			"current": -1,
