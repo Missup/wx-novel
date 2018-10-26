@@ -34,7 +34,7 @@ export default {
         selectedIconPath: '/static/images/rank-active.png'
       }, {
         pagePath: 'pages/user/main',
-        text: '个人中心',
+        text: '我的',
         iconPath: '/static/images/user.png',
         selectedIconPath: '/static/images/user-active.png'
       }]
